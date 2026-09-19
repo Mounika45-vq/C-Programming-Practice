@@ -4,7 +4,7 @@ Beginner C programming practice repository for learning basic syntax and concept
 
 ## Program
 
-- Hello World in C
+- Student Details Program
 
 ## Learning Goals
 
@@ -15,7 +15,7 @@ Beginner C programming practice repository for learning basic syntax and concept
 ## How to Run
 
 Compile:
-gcc hellogithub.c -o main
+gcc student_details.c -o main
 
 Run:
 ./main
