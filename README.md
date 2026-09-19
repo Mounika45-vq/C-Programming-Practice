@@ -1,13 +1,25 @@
-# My First C language Project
-## Description 
-This is a simple C language project created for learning 
-##Features
--Written in C language
--Easy to understand
--Beginner friendly
-##How to Run 
-gcc main.c -o main 
-./main
-##Author
-Mounika
+# C-Programming-Practice
 
+Beginner C programming practice repository for learning basic syntax and concepts.
+
+## Program
+
+- Hello World in C
+
+## Learning Goals
+
+- Practice C syntax
+- Understand basic program structure
+- Build a foundation in C programming
+
+## How to Run
+
+Compile:
+gcc hellogithub.c -o main
+
+Run:
+./main
+
+## Author
+
+Mounika
