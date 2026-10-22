@@ -1,24 +1,40 @@
 # C-Programming-Practice
 
-Beginner C programming practice repository for learning basic syntax and concepts.
+A beginner-friendly repository containing C programming practice programs and exercises.
 
-## Program
+## Programs
 
-- Student Details Program
+- **Student Details Program** — A simple program to display student information.
 
-## Learning Goals
+## Concepts Practiced
 
-- Practice C syntax
-- Understand basic program structure
-- Build a foundation in C programming
+- Basic C syntax
+- Variables and data types
+- Input and output
+- Basic program structure
 
 ## How to Run
 
-Compile:
+**Compile:**
+```bash
 gcc student_details.c -o main
+```
 
-Run:
+**Run on Linux/macOS:**
+```bash
 ./main
+```
+
+**Run on Windows:**
+```bash
+.\main.exe
+```
+
+## Learning Goals
+
+- Strengthen C programming fundamentals
+- Improve problem-solving skills
+- Practice writing and organizing code
 
 ## Author
 
