@@ -1,4 +1,4 @@
-# C Programming Practice
+
 # C Programming Practice
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
